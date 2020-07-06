@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    color: tomato;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h3:first-of-type {
+    color: black;
+}
+
+.all {
+    margin-top: 50px;
+}
+
+.col_one {
+    border: 1px solid #ccc;
+    /* margin: 5px; */
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.bDes {
+    border-bottom: 1px solid #ccc;
+}
+
+.img-index {
+    margin-top: 5px;
+    height: 100px;
+}
+
+.update {
+    text-align: right;
+}
+
+.update a {
+    margin: 10px;
+}
+
+button a {
+    color: blanchedalmond;
+}
+
+button a:hover {
+    color: blanchedalmond;
+}
+
+form {
+    margin-top: 30px;
+}
